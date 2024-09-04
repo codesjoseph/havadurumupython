@@ -21,7 +21,7 @@
 
 1. **Clone the Project**
    ```bash
-   git clone https://github.com/codesjoseph/weatherapp
+   git clone https://github.com/username/weatherapp
    cd weatherapp
    ```
 
@@ -32,15 +32,18 @@
 
 3. **Run the Application**
    ```bash
-   python weatherapp.py
+   python main.py
    ```
 
 4. **Running with EXE File**
-   - If an EXE file has been created, you can run the application by double-clicking the `weatherapp.exe` file.
+   - If an EXE file has been created, you can find it in the `dist` directory. To run the application, double-click the `weatherapp.exe` file located in the `dist` folder.
 
+## Usage
 
+1. After opening the application, enter a city name in the designated area of the interface.
+2. Click the **"Get Weather"** button.
+3. The daily weather forecast and current weather conditions for the selected city will be displayed on the screen.
 
 ## Developer
 
 This project was developed by [codesjoseph].
-
